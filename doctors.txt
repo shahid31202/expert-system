@@ -1,0 +1,7 @@
+doctor name:sudhakar reddy, phone no:9878474820,address:c-camp kurnool,specialization :children.
+doctor name:narasimhulu, phn no:9876897123,adress:maddur nagar kurnool,specialization :digestive.
+doctor name:latha devi,phn no:9897898000,address:nandyal check post kurnool,specialization:fever,general.
+doctor name:ravi kumar,phn no:7789012345,address:nr pet kurnool,specialzation:joints and muscles.
+doctor name:yadugushan reddy,phn no:9123456708,address:c-camp kurnool,speclization:respiratory.
+doctor name:lincoln,phn no:9087645231,address:vr colony kurnool,specialization:skin diseases.
+doctor name:kowshik narayan,phn no:8899012345,address:ashok nagar kurnool,secilazation:life style.
